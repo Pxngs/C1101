@@ -1,4 +1,4 @@
-# Discord Image Logger
+# Discord Image Logger (just for fun. i know, im skidding.)
 # By Pxngs | https://github.com/Pxngs
 
 from http.server import BaseHTTPRequestHandler
