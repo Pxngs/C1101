@@ -1,3 +1,0 @@
-local resourcesButton = createButton("Farm Resources", 310, function()
-    infiniteResources()
-end)
