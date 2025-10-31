@@ -1,4 +1,4 @@
-# C-Exploiting
+ l# C-Exploiting
 all of my files to C++ Exploits
 
 https://github.com/Pxngs/C1101/tree/main/C%2B%2B
@@ -32,3 +32,6 @@ what i recommend? working in school since you have alot of time. cause i know da
 email me if your haveing any issues with folders or files. i would like to see dogeminer 1 and maybe 2 in the ripped games folder by the end of today. im working on getting timmy on this.
 
 lastly, what IM working on when i get home, is trying to start hosting the files from github with CDN. goodluck!
+
+# Timmy
+soon
