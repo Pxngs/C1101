@@ -11,7 +11,7 @@ https://github.com/Pxngs/C1101/tree/main/rippedgames
 
 # introduction
 
-make DogeMiner.
+make DogeMiner2
 
 heres a few tutorials.
 
