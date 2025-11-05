@@ -9,7 +9,7 @@ https://github.com/Pxngs/C1101/tree/main/rippedgames
 
 <img width="960" height="400" alt="background" src="https://github.com/user-attachments/assets/adb066d1-ef80-443f-aaf0-9085f7cd8fbc" />
 
-# JAMES
+# introduction
 
 make DogeMiner.
 
@@ -32,6 +32,3 @@ what i recommend? working in school since you have alot of time. cause i know da
 email me if your haveing any issues with folders or files. i would like to see dogeminer 1 and maybe 2 in the ripped games folder by the end of today. im working on getting timmy on this.
 
 lastly, what IM working on when i get home, is trying to start hosting the files from github with CDN. goodluck!
-
-# Timmy
-soon
