@@ -8,7 +8,8 @@ https://github.com/Pxngs/C1101/tree/main/C%2B%2B
 https://github.com/Pxngs/C1101/tree/main/rippedgames
 
 <img width="960" height="400" alt="background" src="https://github.com/user-attachments/assets/adb066d1-ef80-443f-aaf0-9085f7cd8fbc" />
-![dogeloader](https://github.com/user-attachments/assets/e336fb41-8e5d-483d-b8ac-eb3efb51da22) <svg xmlns="http://www.w3.org/2000/svg" class="dogespinner" viewBox="0 0 427.37 423.75">
+
+![dogeloader](https://github.com/user-attachments/assets/166477b3-0d24-45a9-b559-3cf576d1c2f9) <svg xmlns="http://www.w3.org/2000/svg" class="dogespinner" viewBox="0 0 427.37 423.75">
 <style>
   .dogespinner {
     width: 200px;
