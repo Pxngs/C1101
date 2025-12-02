@@ -28,10 +28,10 @@ for the code? just add a file and paste the code into the file.
 
 # KALEB
 
-im not working on much since i literally just created 100 more files today. but i will be checking on what you have done for today.
+FUCKING HEXGL  (finally almost done it.)
 
 what i recommend? working in school since you have alot of time. cause i know damn well u would just play games.
 
-email me if your haveing any issues with folders or files. i would like to see dogeminer 1 and maybe 2 in the ripped games folder by the end of today. im working on getting timmy on this.
+email me if your having any issues with folders or files. i would like to see dogeminer 1 and maybe 2 in the ripped games folder by the end of today. im working on getting timmy on this.
 
-lastly, what IM working on when i get home, is trying to start hosting the files from github with CDN. goodluck!
+trying to find a cdn file hoster thats not blocked.
