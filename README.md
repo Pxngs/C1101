@@ -5,7 +5,7 @@ https://github.com/Pxngs/C1101/tree/main/C%2B%2B
 
 # rippedgames
 
-DO SOMETHING. pedro is gonna join shortly
+DO SOMETHING. pedro probably not joining idk
 
 https://github.com/Pxngs/C1101/tree/main/rippedgames
 
@@ -14,7 +14,7 @@ https://github.com/Pxngs/C1101/tree/main/rippedgames
 
 # introduction
 
-make a new game idc what u add.
+make a new game idc what u add. reccomendation? favorite game that has 2-5 files :)
 
 heres a few tutorials.
 
