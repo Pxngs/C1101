@@ -11,7 +11,10 @@ https://github.com/Pxngs/C1101/tree/main/rippedgames
 
 <img width="510" height="706" alt="xmas" src="https://github.com/user-attachments/assets/347a89a1-a889-4403-a78d-df8fe175c29f" />
 
-⬇️games with github uploading problems (makes impossible to upload a file onto github because of file limits) 
+# ⬇️games with github uploading problems 
+(makes impossible to upload a file onto github because of file limits) 
+
+
 
 
 
