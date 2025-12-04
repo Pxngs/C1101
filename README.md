@@ -7,6 +7,8 @@ https://github.com/Pxngs/C1101/tree/main/C%2B%2B
 
 DO SOMETHING. 
 
+doodle jump is the goat
+
 https://github.com/Pxngs/C1101/tree/main/rippedgames
 
 <img width="510" height="706" alt="xmas" src="https://github.com/user-attachments/assets/347a89a1-a889-4403-a78d-df8fe175c29f" />
