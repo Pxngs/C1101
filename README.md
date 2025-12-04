@@ -28,7 +28,9 @@ for the code? just add a file and paste the code into the file.
 
 # KALEB
 
-FUCKING HEXGL  (finally almost done it.)
+finished hexgl. (didnt even work😭)
+
+doing random small game adding with james.
 
 what i recommend? working in school since you have alot of time. cause i know damn well u would just play games.
 
