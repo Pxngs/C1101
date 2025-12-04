@@ -16,11 +16,13 @@ https://github.com/Pxngs/C1101/tree/main/rippedgames
 # ⬇️games with github uploading problems 
 (makes impossible to upload a file onto github because of file limits) 
 
-10-minutes-till-dawn
+"10-minutes-till-dawn" because of some file limits
 
-fleeingthecomplex
+"fleeingthecomplex" because of some file limits
 
-forgot the 3rd one
+"1" because im lazy
+
+forgot the 4th one
 
 # introduction
 
