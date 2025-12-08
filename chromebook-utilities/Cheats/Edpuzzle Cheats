@@ -1,5 +1,25 @@
-edpuzzle cheats by: ading2210
+Edpuzzle Cheats! This won't work on your chromebook if you are on a later version of chromeos that blocked javascript. However, you can probably use another device.
 
-javascript:(()=%3E%7Bconst%20e=parseInt(prompt(%22Points%20per%20question%20(max%20is%207000):%22))-5e3,o=fetch;window.fetch=function(r,s)%7Bif(%5B%22https://game.quizizz.com/play-api/v4/soloProceed%22,%22https://game.quizizz.com/play-api/v4/proceedGame%22%5D.includes(r))%7Bconst%20o=JSON.parse(s.body);o.response.provisional.scores=%7Bcorrect:e+5e3,incorrect:e+5e3%7D,o.response.provisional.scoreBreakups=%7Bcorrect:%7Bbase:5e3,timer:5e3,streak:5e3,powerups:%5B%5D,total:e+5e3%7D,incorrect:%7Bbase:5e3,timer:5e3,streak:5e3,powerups:%5B%5D,total:e+5e3%7D%7D,s.body=JSON.stringify(o)%7Dreturn%20o(r,s)%7D%7D)();
+BOOKMARK THIS:
+javascript: fetch("https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest/script.js").then(r => r.text()).then(r => eval(r))
 
-dunno if this works either
+idk if this one works.
+javascript:fetch('https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest/script.js').then(r%20=%3E%20r.text()).then(r%20=%3E%20eval(r))
+
+Features:
+1. Can fetch and display the multiple-choice answers for any Edpuzzle assignment
+2. Can automatically answer all the multiple-choice questions in an assignment
+3. Includes a video skipper which allows for arbitrary navigation within an assignment
+4. Has an option to prevent pausing the video when the tab is hidden
+5. Has a tool to change the video speed
+6. Shows various stats about the assignment
+7. Has a decent looking GUI
+8. No login or extension required
+9. Uses about:blank so it doesn't go into your browser history
+10. Works on private Edpuzzle videos
+11. Supports Edpuzzles embedded in Canvas and Schoology
+
+Credits: 
+ading2210/vk6
+https://github.com/ading2210/edpuzzle-answers
+https://edpuzzle.hs.vc/
