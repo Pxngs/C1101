@@ -1,0 +1,5 @@
+edpuzzle cheats by: ading2210
+
+javascript:(()=%3E%7Bconst%20e=parseInt(prompt(%22Points%20per%20question%20(max%20is%207000):%22))-5e3,o=fetch;window.fetch=function(r,s)%7Bif(%5B%22https://game.quizizz.com/play-api/v4/soloProceed%22,%22https://game.quizizz.com/play-api/v4/proceedGame%22%5D.includes(r))%7Bconst%20o=JSON.parse(s.body);o.response.provisional.scores=%7Bcorrect:e+5e3,incorrect:e+5e3%7D,o.response.provisional.scoreBreakups=%7Bcorrect:%7Bbase:5e3,timer:5e3,streak:5e3,powerups:%5B%5D,total:e+5e3%7D,incorrect:%7Bbase:5e3,timer:5e3,streak:5e3,powerups:%5B%5D,total:e+5e3%7D%7D,s.body=JSON.stringify(o)%7Dreturn%20o(r,s)%7D%7D)();
+
+dunno if this works either
