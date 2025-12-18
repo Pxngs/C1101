@@ -40,12 +40,12 @@ for the code? just add a file and paste the code into the file.
 
 # KALEB
 
-finished hexgl. (didnt even work😭)
+doing riddle school 1-5.
 
-doing random small game adding with james.
+https://gitlab.com/search?search=Riddleschool&nav_source=navbar&project_id=54213496&search_code=true&repository_ref=main
 
 what i recommend? working in school since you have alot of time. cause i know damn well u would just play games.
 
-email me if your having any issues with folders or files. i would like to see dogeminer 1 and maybe 2 in the ripped games folder by the end of today. im working on getting timmy on this.
+email me if your having any issues with folders or files. i would like to see dogeminer 1 and maybe 2 in the ripped games folder. im pretty sure timmys not going to do anything even if i get him contributor.
 
-trying to find a cdn file hoster thats not blocked.
+gonna start making the website unblocked by hosting it on amazon web services (AWS) lets hope my lazy ass remembers.
