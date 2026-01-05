@@ -4,6 +4,11 @@ all of my files to C++ Exploits
 https://github.com/Pxngs/C1101/tree/main/C%2B%2B
 
 # Flipper
+
+https://github.com/Pxngs/C1101/tree/main/Flipper
+
+NOT really organized at all
+
 just abunch of files to share w ryland
 
 # rippedgames
