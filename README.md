@@ -19,7 +19,8 @@ doodle jump is the goat
 
 https://github.com/Pxngs/C1101/tree/main/rippedgames
 
-<img width="510" height="706" alt="xmas" src="https://github.com/user-attachments/assets/347a89a1-a889-4403-a78d-df8fe175c29f" />
+<img width="360" height="360" alt="doodle" src="https://github.com/user-attachments/assets/b8c78d1c-1afa-4e02-8bd3-5b7c79298205" />
+
 
 # ⬇️games with github uploading problems 
 (makes impossible to upload a file onto github because of file limits) 
