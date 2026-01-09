@@ -49,7 +49,7 @@ for the code? just add a file and paste the code into the file.
 
 # KALEB
 
-doing riddle school 1-5.
+idk what im doing lol
 
 https://gitlab.com/search?search=Riddleschool&nav_source=navbar&project_id=54213496&search_code=true&repository_ref=main
 
