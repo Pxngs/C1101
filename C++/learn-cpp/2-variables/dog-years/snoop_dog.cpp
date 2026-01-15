@@ -1,4 +1,3 @@
-// do this later. huge ahh learning jump
 #include <iostream>
 
 int main () {
@@ -21,4 +20,15 @@ int main () {
   // Accounts for later years
   later_years = (dog_age - 2 ) * 4;
 
-  // My logic on puppy math
+  // My logic for puppy math
+  if (dog_age < 2) {
+    early_years = (early_years / 2) * dog_age;
+    later_years = 0;
+  }
+
+  human_years = later_years + early_years;
+
+  std::cout << "\nMy name is " << dog_name << "! Ruff Ruff, I am " << human_years << " years old in human years.\n"; 
+  std::cout << " Bow wow wow yippie yo yippie yay\n";
+
+}
