@@ -11,4 +11,4 @@ name: Freeze
 type: parsed
 protocol: NECext
 address: 83 55 00 00
-command: 92 6D 00 0
+command: 92 6D 00 00
