@@ -7,7 +7,7 @@ int main () {
 
     char living;              // living or visiting
 
-    std::cout << "
-    std::cout << "Welcome to MetroCity Calculator! - New York City.\n"
-    std::cout << "  
-    std::cout << "  
+    std::cout << "Welcome to MetroCity Calculator! - New York City.\n";
+    std::cout << "Welcome to the MetroCard Calculator! - New York City\n";
+    std::cout << "====================================================\n";
+    srd::cout << "\n";
