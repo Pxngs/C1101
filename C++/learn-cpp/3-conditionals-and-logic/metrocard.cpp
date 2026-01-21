@@ -112,12 +112,12 @@ int main () {
 
         printf("\n");
         printf("=========\n");
-        printf("PRINT COST\n");
+        printf("TRIP COST\n");
         printf("=========\n\n");
 
-        printf(" - Using Single Fare Rides ")
-        printf(" - Using 
-
+        printf(" - Using Single Fare Rides:              $%0.2f\n", tripcost);
+        printf(" - Using 7-Day Unlimited Card: (x%d)      $%0.2f\n", weeks,unlimited);
+        printf(" - Using 30-Day Unlimited Card:          $%121.00\n");
 
 
 
