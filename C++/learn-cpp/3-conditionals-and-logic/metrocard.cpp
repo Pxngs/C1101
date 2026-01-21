@@ -7,8 +7,8 @@ int main () {
 
     char living;              // living or visiting
 
-    std::cout << "Welcome to MetroCity Calculator! - New York City.\n";
-    std::cout << "Welcome to the MetroCard Calculator! - New York City\n";
+    std::cout << "====================================================\n";
+    std::cout << "Welcome to the MetroCard Calculator! - New York City.\n";
     std::cout << "====================================================\n";
     std::cout << "\n";
 
@@ -116,7 +116,7 @@ int main () {
         printf("=========\n\n");
 
         printf(" - Using Single Fare Rides ")
-
+        printf(" - Using 
 
 
 
