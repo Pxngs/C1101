@@ -119,5 +119,38 @@ int main () {
         printf(" - Using 7-Day Unlimited Card: (x%d)      $%0.2f\n", weeks,unlimited);
         printf(" - Using 30-Day Unlimited Card:          $%121.00\n");
 
+        printf("================================================\n\n");
 
+        if (tripcost < 121 && tripcost < unlimited) {
 
+            printf("It would be better to use Single Fare Rides.\n");
+            printf("You would save $%0.2f vs. using 30-Day Unlimited.\n", 121 - tripcost);
+            printf("You would save $%0.2f vs. using 7-Day Unlimited.\n", unlimited - tripcost);
+
+        }
+        else if (unlimited < tripcost && unlimited < 121) {
+
+            printf("It would be better to use the 7-Day Unlimited.\n");
+            printf("You would save $%0.2f vs. using 30-Day Unlimited.\n", 121 - tripcost);
+            printf("You would save $%0.2f vs. using Single Fare Rides.\n", tripcost - unlimited);
+
+        }
+        else if (tripcost > 121 && unlimited > 121) {
+
+            printf("It would be better to use the 30-Fay Unlimited.\n");
+            printf("You would save $%f vs. using 7-Day Unlimited.\n", unlimited - 121);
+            printf("You would save $%f vs. using Single Fare Rides.\n", tripcost - 121);
+
+        }
+
+    }
+    else {
+
+        printf("\n");
+        printf("=============\n");
+        printf("Invalid Entry\n");
+        printf("=============\n");
+    
+    }
+
+}
