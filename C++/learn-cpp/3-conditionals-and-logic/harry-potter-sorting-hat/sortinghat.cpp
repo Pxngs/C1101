@@ -15,4 +15,4 @@ int main () {
 
   // ~~~~~~~~~~ Question 1 ~~~~~~~~~~
 
-  std::cout << "nQ1) ";
+  std::cout << "Q1 When I'm Dead, ) ";
