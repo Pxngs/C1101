@@ -15,4 +15,8 @@ int main () {
 
   // ~~~~~~~~~~ Question 1 ~~~~~~~~~~
 
-  std::cout << "Q1 When I'm Dead, ) ";
+  std::cout << "Q1) When I'm Dead, I want people to remember me as:\n\n";
+  
+  std::cout << " 1) The Good\n";
+  std::cout << " 2) The Great\n";
+  std::cout << " 3) 
