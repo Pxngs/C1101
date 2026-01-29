@@ -19,4 +19,8 @@ int main () {
   
   std::cout << " 1) The Good\n";
   std::cout << " 2) The Great\n";
-  std::cout << " 3) 
+  std::cout << " 3) The Wise\n";
+  std::cout << " 4) The Bold\n";
+
+  std::cout << "Enter your answer (1-4): ";
+  std::cin >> answer1;
