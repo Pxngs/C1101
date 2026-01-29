@@ -61,12 +61,39 @@ int main () {
   else
   {
 
+    std::cout << "Invalid input\n";
 
+  }
 
-
-
+  // ~~~~~~~~~~ Question 3 ~~~~~~~~~~
 
   std::cout << "\nQ3) Which kind of instrument most pleases your ear?\n\n";
+
+  std::cout << " 1) The violin\n"; 
+  std::cout << " 2) The trumpet\n"; 
+  std::cout << " 3) The piano\n";
+  std::cout << " 4) The drum\n\n";
+
+  std::cout << "Enter your answer (1-4): ";
+  std::cin >> answer3;
+
+  if (answer3 == 1)
+    slytherin++;
+  else if (answer3 == 2)
+    hufflepuff++;
+  else if (answer3 == 3)
+    ravenclaw++;
+  else if (answer3 == 4)
+    gryffindor++;
+
+  // ~~~~~~~~~~ Question 4 ~~~~~~~~~~
+
+  std::cout << "nQ4) Which road tempts you the most?\n\n";
+
+  
+
+
+
 
 
 
