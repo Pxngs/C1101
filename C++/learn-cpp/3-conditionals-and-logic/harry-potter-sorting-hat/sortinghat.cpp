@@ -24,3 +24,49 @@ int main () {
 
   std::cout << "Enter your answer (1-4): ";
   std::cin >> answer1;
+
+  if (answer1 == 1)
+    hufflepuff++;
+  else if (answer1 == 2)
+    slytherin++;
+  else if (answer1 == 3)
+    ravenclaw++;
+  else if (answer1 == 4)
+    gryffindor++;
+
+  // ~~~~~~~~~~ Question 2 ~~~~~~~~~~
+  
+  std::cout << "\nQ2) Dawn or Dusk?\n\n";
+  
+  std::cout << " 1) Dawn\n";
+  std::cout << " 2) Dusk\n";
+
+  std::cout << "Enter your answer (1-2): ";
+  std::cin >> answer2;
+
+  if (answer2 == 1)
+  {
+
+    gryffindor++;
+    ravenclaw++;
+
+  }
+  else if (answer2 == 2)
+  {
+
+    hufflepuff++;  
+    slytherin++;
+
+  }
+  else
+  {
+
+
+
+
+
+
+  std::cout << "\nQ3) Which kind of instrument most pleases your ear?\n\n";
+
+
+
