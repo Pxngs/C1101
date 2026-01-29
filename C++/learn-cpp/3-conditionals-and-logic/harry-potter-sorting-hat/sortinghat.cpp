@@ -90,7 +90,30 @@ int main () {
 
   std::cout << "nQ4) Which road tempts you the most?\n\n";
 
-  
+  std::cout << " 1) The wide, sunny grasss lane\n"; 
+  std::cout << " 2) The narrow, dark, lantern-lit alley\n";
+  std::cout << " 3) The twisting, leaf-strewn path through the woods\n";\
+  std::cout << " 4) The cobbled street lined (ancient buildings)\n\n";
+
+  std::cout << "Enter your answer (1-4): ";
+  std::cin >> answer4;
+
+  if (answer4 == 1)
+    hufflepuff++;
+  else if (answer4 == 2)
+    slytherin++;
+  else if (answer4 == 3)
+    gryffindor++;
+  else if (answer4 == 4)
+    ravenclaw++;
+
+ // ========== Sorting ==========
+
+
+
+
+
+
 
 
 
