@@ -109,9 +109,12 @@ int main () {
 
   // ========== Sorting ==========
 
-  std::cout << "\n Congrats on being sorted into... ";
+  std::cout << "\nCongrats on being sorted into... ";
 
-  
+  int max = 0;
+  std::string house;
+
+  if (gryffindor > max)
 
 
 
