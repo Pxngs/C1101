@@ -115,7 +115,14 @@ int main () {
   std::string house;
 
   if (gryffindor > max)
+  {
 
+    max = gryffindor;
+    house = "Gryffindor";
+
+  }
+
+  
 
 
 
