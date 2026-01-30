@@ -107,8 +107,11 @@ int main () {
   else if (answer4 == 4)
     ravenclaw++;
 
- // ========== Sorting ==========
+  // ========== Sorting ==========
 
+  std::cout << "\n Congrats on being sorted into... ";
+
+  
 
 
 
