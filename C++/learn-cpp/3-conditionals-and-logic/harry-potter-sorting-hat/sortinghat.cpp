@@ -122,9 +122,41 @@ int main () {
 
   }
 
-  
+  if (hufflepuff > max)
+  {
+
+    max = hufflepuff;
+    house = "Hufflepuff";
+
+  }
+
+  if (ravenclaw > max)
+  {
+
+    max = ravenclaw;
+    house = "Ravenclaw";
+
+  }
+
+  if (slytherin > max)
+  {
+
+    max = slytherin;
+    house = "Slytherin";
+
+  }
+
+  std::cout << house << "!\n";
+
+  return 0;
+
+}
 
 
+
+
+
+    
 
 
 
