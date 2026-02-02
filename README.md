@@ -7,7 +7,7 @@ https://github.com/Pxngs/C1101/tree/main/C%2B%2B
 
 https://github.com/Pxngs/C1101/tree/main/Flipper
 
-NOT really organized at all
+not really organized at ALL
 
 just abunch of files to share w ryland
 
