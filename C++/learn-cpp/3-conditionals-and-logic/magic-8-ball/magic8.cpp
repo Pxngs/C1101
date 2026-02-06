@@ -88,6 +88,26 @@ int main () {
     std::cout << "Don't count on it.\n";
 
   }
-  
+  else if (choice == 16) {
 
+    std::cout << "My reply is no.\n";
+  }
+  else if (choice == 17) {
 
+    std::cout << "My sources say no.\n";
+
+  }
+  else if (choice == 18) {
+
+    std::cout << "Outlook not so good.\n";
+
+  }
+  else {
+
+    std::cout << "Very doubtful.\n";
+
+  }
+
+  return 0;
+
+}
