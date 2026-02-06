@@ -36,4 +36,58 @@ int main () {
   }
   else if (choice == 5) {
 
-    std::cout << "
+    std::cout << "As i see it, yes.\n";
+
+  }
+  else if (choice == 6) {
+
+    std::cout << "Most likely.\n";
+
+  }
+  else if (choice == 7) {
+
+    std::cout << "Outlook good.\n";
+
+  }
+  else if (choice == 8) {
+
+    std::cout << "Yes.\n";
+  }
+  else if (choice == 9) {
+
+    std::cout << "Signs point to yes.\n";
+
+  }
+  else if (choice == 10) {
+
+    std::cout << "Reply hazy, try again.\n";
+
+  }
+  else if (choice == 11) {
+
+    std::cout << "Ask again later.\n";
+
+  }
+  else if (choice == 12) {
+
+    std::cout << "Better not tell you now.\n";
+
+  }
+  else if (choice == 13) {
+
+    std::cout << "Cannot predict now.\n";
+
+  }
+  else if (choice == 14) {
+
+    std::cout << "Concentrate and ask again\n";
+
+  }
+  else if (choice == 15) {
+
+    std::cout << "Don't count on it.\n";
+
+  }
+  
+
+
