@@ -20,3 +20,4 @@ Rock crushes Scissors
 struct Results {
   int user_score;
   int computer_score;
+  std::string result;
