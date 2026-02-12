@@ -21,3 +21,7 @@ struct Results {
   int user_score;
   int computer_score;
   std::string result;
+};
+
+// function declaration
+std::string TranslateChoice   
