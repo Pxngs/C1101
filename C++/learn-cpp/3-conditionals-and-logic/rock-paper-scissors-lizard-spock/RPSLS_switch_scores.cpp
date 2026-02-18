@@ -82,7 +82,7 @@ Results PlayWithComputer(int user, int computer, int user_score, int computer_sc
     case 3: // Scissors
       if (computer == 2 || computer == 4) // Paper & Lizard
       }
-        user_score++
+        user_score++;
         return {user_score, computer_score, "You Win!"};
       }
       else
@@ -91,3 +91,22 @@ Results PlayWithComputer(int user, int computer, int user_score, int computer_sc
         return {user_score, computer_score, "You Lose!"};
       }
       break;
+    
+    case 4: // Lizard
+      if (computer == 2 || computer == 5) // Paper And Spock
+      {
+        user_score++;
+        return {user_score, computer_score, "You Win!"};
+      }
+      else
+      {
+        computer_Score++;
+        return {user_score, computer_score, "You Lose!"};
+      }
+      break;
+
+
+
+
+
+
