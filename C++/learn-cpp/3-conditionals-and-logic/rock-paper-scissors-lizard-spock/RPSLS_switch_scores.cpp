@@ -62,7 +62,7 @@ Results PlayWithComputer(int user, int computer, int user_score, int computer_sc
       if (computer == 3 || computer == 4) // Scissors & Lizard
       {
         user_score++
-        Return {user_score, computer_score, "You Win!";
+        return {user_score, computer_score, "You Win!";
       }
       else
       {
@@ -76,6 +76,11 @@ Results PlayWithComputer(int user, int computer, int user_score, int computer_sc
       {
         user_score++;
         return {user_score, computer_score, "You Win!";
+      }
+      else
+      {
+        computer_score++;
+        return {user_score, computer_score, "You Lose!";
       }
       break;
 
@@ -100,10 +105,30 @@ Results PlayWithComputer(int user, int computer, int user_score, int computer_sc
       }
       else
       {
-        computer_Score++;
+        computer_score++;
         return {user_score, computer_score, "You Lose!"};
       }
       break;
+
+    case 5; // Spock
+      if (computer == 1 || computer == 3 ) // Rock & Scissors
+      {
+        user_score++;
+        return {user_score, computer_score, "You Win!"};
+      }
+      else
+      {
+        computer_score++;
+        return {user_score, computer_score, "You Lose!"};
+      }
+      break;
+
+    default:
+      std::cout << "INVALID INPUT. TRY AGAIN.\n";
+      return {user_score, computer_score,"0"};
+      break;
+  
+
 
 
 
