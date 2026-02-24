@@ -127,9 +127,22 @@ Results PlayWithComputer(int user, int computer, int user_score, int computer_sc
       std::cout << "INVALID INPUT. TRY AGAIN.\n";
       return {user_score, computer_score,"0"};
       break;
-  
+  }
+}
 
+Results StartGame(int user_score, int computer_score) {
+  srand (time(NULL));
+  int user = 0, computer = rand() % 5 + 1;
 
+  std::cout << "\nGame Starting.\n";
+  std::cout << "1) ✊\n"; // Rock
+  std::cout << "2) ✋\n"; // Paper
+  std::cout << "3) ✌️\n"; // Scissors
+  std::cout << "4) 👌\n"; // Lizard
+  std::cout << "5) 🖖\n"; // Spock
+  std::cout << "Shoot! ";
+
+  std::cin >> user;
 
 
 
