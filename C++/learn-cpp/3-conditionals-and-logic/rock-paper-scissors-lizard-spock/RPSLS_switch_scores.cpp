@@ -144,7 +144,11 @@ Results StartGame(int user_score, int computer_score) {
 
   std::cin >> user;
 
+  if (user <= 0) {
 
+    return {user_score, computer_score "0"};
 
+  }
 
+  auto results = 
 
