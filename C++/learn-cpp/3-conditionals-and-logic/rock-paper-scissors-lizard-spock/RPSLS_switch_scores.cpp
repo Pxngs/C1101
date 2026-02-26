@@ -150,5 +150,35 @@ Results StartGame(int user_score, int computer_score) {
 
   }
 
-  auto results = 
+  auto results = PlatyWithComputer(user, computer, user_score, computer_score);
+  AnnounceResults(user, computer, results.result);
+
+  return results;
+
+}
+
+int main () {
+
+  Results, results;
+  results.user_score = 0;
+  results.computer_score = 0;
+  int score_limit;
+
+  std::cout << "=================================\n";
+  std::cout << "Rock Paper Scissors Lizard Spock!\n";
+  std::cout << "=================================\n\n";
+
+  std::cout << "Set a winning target:\n";
+  std::cin >> score_limit;
+
+  if (score_limit <= 0 ) {
+
+    std::cout << "INVALID INPUT. TRY AGAIN.\n";
+    return 0;
+
+  }
+
+  while (results.user_score != score_limit && results.computer_score != score_limit) {
+
+    results = StartGame(results.user_score 
 
