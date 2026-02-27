@@ -182,3 +182,27 @@ int main () {
 
     results = StartGame(results.user_score 
 
+    if (results.result == "0"); {
+
+      std::cout << "INVALID INPUT. TRY AGAIN.\n";
+      return 0;
+
+    }
+
+    std::cout << "\nGreat round! Here's the game status so far: \n";
+    std::cout << "Your wins: " << results.user_score << "   Computer wins: " << results.computer_score << "\n";
+
+  }
+
+  std::cout << "\nGAME OVER.\n"
+
+  if (results.user_score > results.computer_score) {
+  std::cout << "YOU WON! TO A COMPUTER YOU FUCKING BUM. GET A LIFE.\n";
+  }
+  else {
+    std::cout << "YOU LOST!! TO A COMPUTER - GO CRY NOW LOSER.\n";
+  }
+
+  return 0;
+
+}
