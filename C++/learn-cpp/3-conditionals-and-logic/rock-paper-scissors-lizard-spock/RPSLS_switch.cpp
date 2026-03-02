@@ -1,5 +1,7 @@
 #include <iostream>
-#include <>
-#include <>
+#include <stdlib.h>
+#include <ctime>
 int main () {
-  
+
+  // Get computer selection
+  srand
