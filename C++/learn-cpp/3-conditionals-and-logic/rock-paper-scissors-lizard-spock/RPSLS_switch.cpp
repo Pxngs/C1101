@@ -4,4 +4,5 @@
 int main () {
 
   // Get computer selection
-  srand
+  srand (time(NULL));
+  int computer = rand() % 5 + 1;
