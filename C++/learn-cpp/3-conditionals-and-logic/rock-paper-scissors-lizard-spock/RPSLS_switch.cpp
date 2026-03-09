@@ -23,3 +23,8 @@ int main () {
   std::cout << "Choose your weapon: ";
   std::cin >> user;
 
+  switch (user) {
+    case 1: // Human Chooses Rock
+      switch (computer) {
+        case 1: // Computer Chooses Rock
+
