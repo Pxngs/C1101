@@ -27,4 +27,9 @@ int main () {
     case 1: // Human Chooses Rock
       switch (computer) {
         case 1: // Computer Chooses Rock
+          std::cout << "You tie! You both chose Rock!\n";
+          break;
+
+
+
 
