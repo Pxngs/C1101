@@ -29,7 +29,25 @@ int main () {
         case 1: // Computer Chooses Rock
           std::cout << "You tie! You both chose Rock!\n";
           break;
-            case 2: // Human Chooses Paper
+        case 2: // Human Chooses Paper
+            std::cout << "Computer wins! Paper covers Rock!\n";
+            break;
+        case 3: // Computer Chooses Scissors
+            std::cout << "You win! Rock crushes Scissors!\n"
+            break;
+        case 4: // Computer Chooses Lizard
+            std::cout << "You win! Rock crushes Lizard!\n"
+            break;
+        case 5: // Computer Chooses Spock
+            std::cout << "Computer wins! Spock vaporizes Rock!\n"
+            break;
+        case 6: // Something went wrong with rand
+            std::cout << "Computer tried to cheat!?!\n"
+            break;
+      }
+      break;
+    case 2: // 
+
 
 
 
