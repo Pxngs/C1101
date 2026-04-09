@@ -47,7 +47,6 @@ int main () {
       }
       break;
     case 2: // 
-
-
+      switch (computer) {
 
 
