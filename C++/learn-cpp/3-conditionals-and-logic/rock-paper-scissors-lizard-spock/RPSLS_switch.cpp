@@ -24,21 +24,21 @@ int main () {
   std::cin >> user;
 
   switch (user) {
-    case 1: // Human Chooses Rock
+    case 1: // Human chooses Rock
       switch (computer) {
-        case 1: // Computer Chooses Rock
+        case 1: // Computer chooses Rock
           std::cout << "You tie! You both chose Rock!\n";
           break;
-        case 2: // Human Chooses Paper
+        case 2: // Human chooses Paper
             std::cout << "Computer wins! Paper covers Rock!\n";
             break;
-        case 3: // Computer Chooses Scissors
+        case 3: // Computer chooses Scissors
             std::cout << "You win! Rock crushes Scissors!\n"
             break;
-        case 4: // Computer Chooses Lizard
+        case 4: // Computer chooses Lizard
             std::cout << "You win! Rock crushes Lizard!\n"
             break;
-        case 5: // Computer Chooses Spock
+        case 5: // Computer chooses Spock
             std::cout << "Computer wins! Spock vaporizes Rock!\n"
             break;
         case 6: // Something went wrong with rand
@@ -46,7 +46,17 @@ int main () {
             break;
       }
       break;
-    case 2: // 
+    case 2: // Human chooses Paper
       switch (computer) {
-
-
+        case 1: // Computer chooses Rock
+          std::cout << "You win! Paper covers Rock!\n";
+          break;
+        case 2: // Computer chooses Paper
+          std::cout << "You tie! You both choose Paper!\n";
+          break;
+        case 3: // Computer chooses Scissors
+          std::cout << "Computer wins! Scissors cuts Paper\n";
+          break;
+        case 4: //
+          std::cout << "\n"
+          break;
