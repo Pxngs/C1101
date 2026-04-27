@@ -33,16 +33,16 @@ int main () {
             std::cout << "Computer wins! Paper covers Rock!\n";
             break;
         case 3: // Computer chooses Scissors
-            std::cout << "You win! Rock crushes Scissors!\n"
+            std::cout << "You win! Rock crushes Scissors!\n";
             break;
         case 4: // Computer chooses Lizard
-            std::cout << "You win! Rock crushes Lizard!\n"
+            std::cout << "You win! Rock crushes Lizard!\n";
             break;
         case 5: // Computer chooses Spock
-            std::cout << "Computer wins! Spock vaporizes Rock!\n"
+            std::cout << "Computer wins! Spock vaporizes Rock!\n";
             break;
         case 6: // Something went wrong with rand
-            std::cout << "Computer tried to cheat!?!\n"
+            std::cout << "Computer tried to cheat!?!\n";
             break;
       }
       break;
@@ -57,6 +57,8 @@ int main () {
         case 3: // Computer chooses Scissors
           std::cout << "Computer wins! Scissors cuts Paper\n";
           break;
-        case 4: //
-          std::cout << "\n"
+        case 4: // Computer chooses Lizard
+          std::cout << "Computer wins! Lizard eats Paper!\n";
           break;
+        case 5: // Computer chooses Spock
+          std::cout << "You win! Paper disproves Spock!\n";
