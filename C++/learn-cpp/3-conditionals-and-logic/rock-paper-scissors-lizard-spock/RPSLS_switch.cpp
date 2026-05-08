@@ -62,3 +62,8 @@ int main () {
           break;
         case 5: // Computer chooses Spock
           std::cout << "You win! Paper disproves Spock!\n";
+          break;
+        default: // Something went wrong with rand
+          std::cout << "Computer tried to cheat!?!\n";
+        break;
+      }
