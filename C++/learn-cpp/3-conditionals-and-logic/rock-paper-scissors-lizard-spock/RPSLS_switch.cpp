@@ -55,7 +55,7 @@ int main () {
           std::cout << "You tie! You both choose Paper!\n";
           break;
         case 3: // Computer chooses Scissors
-          std::cout << "Computer wins! Scissors cuts Paper\n";
+          std::cout << "Computer wins! Scissors cuts Paper!\n";
           break;
         case 4: // Computer chooses Lizard
           std::cout << "Computer wins! Lizard eats Paper!\n";
@@ -67,3 +67,33 @@ int main () {
           std::cout << "Computer tried to cheat!?!\n";
         break;
       }
+      break;
+    case 4: // Human chooses Lizard
+      switch (computer) {
+    case 1: // Computer chooses Rock
+      std::cout << "Computer wins! Rock crushes Lizard!\n";
+      break;
+    case 2: // Computer chooses Paper
+      std::cout << "You win! Lizard eats Paper!\n";
+      break;
+    case 3: // Computer chooses Scissors
+      std::cout << "Computer wins! Scissors decapitates Lizard!\n";
+      break;
+    case 4: // Computer chooses Lizard
+      std::cout << "You tie! You both chose Lizard!\n";
+      break;
+    case 5: // Computer chooses Spock
+      std::cout << "You win! Computer poisons Spock!\n";
+      break;
+
+
+
+
+
+
+
+
+
+
+
+
