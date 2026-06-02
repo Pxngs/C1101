@@ -85,15 +85,40 @@ int main () {
     case 5: // Computer chooses Spock
       std::cout << "You win! Computer poisons Spock!\n";
       break;
+    default: // Something went wrong with rand
+      std::cout << "Computer tried to cheat!?!\n";
+      break;
+    }
+    break;
+  case 5: // Human chooses Vulcan
+    switch (computer) {
+      case 1: // Computer chooses Rock
+        std::cout << "You win! Spock vaporizes Rock!\n";
+        break;
+      case 2: // Computer chooses Paper
+        std::cout << "Computer wins! Paper disproves Spock!\n";
+        break;
+      case 3: // Computer chooses Scissors
+        std::cout << "You win! Spock smashes Scissors!\n";
+        break;
+      case 4: // Computer chooses Lizard
+        std::cout << "Computer wins! Lizard poisons Spock!\n";
+        break;
+      case 5: // Computer chooses Spock
+        std::cout << "You tie! You both chose Spock!\n";
+        break;
+      default: // Something went wrong with rand
+        std::cout << "Computer tried to cheat!?!\n";
+        break;
+    }
+    break;
+  default: // Human chose outside 1-5 range
+    std::cout << "Did you try to cheat?!\n"
+    break;
+}
 
+std::cout << "Thank you for playing. Put me in a loop to play more!\n";
 
+return 0;
 
-
-
-
-
-
-
-
-
-
+}
