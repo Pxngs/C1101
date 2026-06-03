@@ -41,6 +41,66 @@ int main () {
 
   }
 
+  // user rock
+
+  else if (user == 1) {
+
+    if (computer == 2) {
+
+      std::cout << "you lost! booooo!\n";
+
+    }
+    if (computer == 3) {
+
+      std::cout << "you win! woohoo!\n";
+
+    }
+
+  }
+
+  // user paper
+
+  else if (user == 3) {
+
+    if (computer == 1) {
+
+      std::cout << "you won! woohoo!\n";
+
+    }
+    if (computer == 3) {
+
+      std::cout << "you lost! boo!\n";
+
+    }
+
+  }
+
+  // user scissors
+
+  else if (user == 2) {
+
+    if (computer == 1) {
+
+      std::cout << "you won! woohoo!\n";
+
+    }
+    if (computer == 2) {
+
+      std::cout << "you lost! boooo!\n";
+
+    }
+
+  }
+
+  return 0;
+
+}
+
+
+
+
+
+
 
 
 
