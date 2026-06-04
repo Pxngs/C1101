@@ -50,6 +50,32 @@ int main() {
 
     std::cout << "You Win!\n";
 
-  } else if (user == scissors && computer = 
+  } else if (user == scissors && computer == paper) {
+
+    std::cout << "You Win!\n";
+
+  } else if (user == paper && computer == rock) {
+
+    std::cout << "You Win!\n";
+
+  } else if (user == lizard && computer == spock) {
+
+    std::cout << "You Win!\n";
+
+  } else if (user == spock && computer == scissorcs) {
+
+    std::cout << "You Win!\n";
+
+  } else if (user == spock && computer == lizard) {
+
+    std::cout << "You Win!\n";
+
+  } else if (user == scissors && computer == lizard) {
+
+    std::cout << "You Win!\n";
+
+  } else if 
+
+
 
 
