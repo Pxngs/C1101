@@ -74,7 +74,10 @@ int main() {
 
     std::cout << "You Win!\n";
 
-  } else if 
+  } else if (user == lizard  && computer == paper) {
+
+    std::cout << "You Win!\n";
+  }
 
 
 
